@@ -1,6 +1,6 @@
 # HELLO
 
-Clock is a simple, beautiful and editable screensaver in your browser!
+Python is a simple, beautiful and editable screensaver in your browser!
 
 ###Setup
 
